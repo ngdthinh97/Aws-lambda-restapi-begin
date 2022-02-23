@@ -1,0 +1,10 @@
+com\serverless\ApiGatewayResponse$Builder.class
+com\serverless\Response.class
+com\serverless\api\CreateItem.class
+com\serverless\api\UpdateItem.class
+com\serverless\api\DeleteItem.class
+com\serverless\ApiGatewayResponse.class
+com\serverless\Handler.class
+com\serverless\dal\CatalogItem.class
+com\serverless\util\CommonUtil.class
+com\serverless\api\ListItems.class
